@@ -1,4 +1,4 @@
-export const baseUrl = "http://localhost:3000/api";
+export const baseUrl = "https://go-blog-server-production.up.railway.app/api";
 
 export interface ApiResponse<T> {
     data: T;
